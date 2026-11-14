@@ -22,8 +22,8 @@
 
 ## 📸 Скриншоты
 ![Меню с командами](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/Botscreen2.png?raw=true)
-![Выдача карточки](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/screen1.png?raw=true)
-![Мини-игра Казино](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/screen3.png?raw=true)
+![Выдача карточки](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/Botscreen1.png?raw=true)
+![Мини-игра Казино](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/Botscreen3.png?raw=true)
 
 ## ⚙️ Как запустить локально (Пошагово)
 1. **Скачайте проект** (или сделайте `git clone`).
