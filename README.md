@@ -17,7 +17,7 @@
 - **Архитектура:** Асинхронные хендлеры, работа с транзакциями БД, обработка ошибок ввода.
 
 ## 📸 Скриншоты
-![Выдача карты](https://github.com/Knizhniknikita/Girls_und_card_botr/blob/main/screens/botscreen1.png?raw=true)
+![Выдача карты](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen1.png?raw=true)
 ![Меню](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen2.png.jpg?raw=true)
 ![Слот-машина](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen3.png.jpg?raw=true)
 
