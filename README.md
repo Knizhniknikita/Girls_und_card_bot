@@ -17,9 +17,9 @@
 - **Архитектура:** Асинхронные хендлеры, работа с транзакциями БД, обработка ошибок ввода.
 
 ## 📸 Скриншоты
-![Геймплей](https://github.com/Knizhniknikita/Girls_und_card_botr/blob/main/screens/botscreen1.png?raw=true)
-![Победа](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen2.png.jpg?raw=true)
-![Поражение](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen3.png.jpg?raw=true)
+![Выдача карты](https://github.com/Knizhniknikita/Girls_und_card_botr/blob/main/screens/botscreen1.png?raw=true)
+![Меню](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen2.png.jpg?raw=true)
+![Слот-машина](https://github.com/Knizhniknikita/Girls_und_card_bot/blob/main/screens/botscreen3.png.jpg?raw=true)
 
 ## ⚙️ Как запустить локально
 1. Установите зависимости: `pip install -r requirements.txt`
